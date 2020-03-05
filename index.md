@@ -1,26 +1,28 @@
 <!DOCTYPE html>
 <html>
-    <head>
-   
+<head>
 
-<body> <body style="background-color:lightgray;
-   
+ <style>
+    .img-container {
+      text-align: center;
+    }
+  </style>
+</head>
+<body> <body style="background-color:lightgray;"
+    <h1> <p style="color:cadetblue;font-style:italic;text-align: center;"> Newtown's GIS department is proud to present this terrible website </p style> </h1>
 
-<p> <p style="color:seagreen; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;text-align: center;"> This is a <strong> website </strong> </p style> </p>
+<p> <p style="color:seagreen; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;text-align: center;"> This is a <strong> website </strong> with maps </p style> </p>
 
 <div class="img-container"> <!-- Block Parent Element -->
 <img src= "https://github.com/cwoehrle/cwoehrle.github.io/blob/master/Logo_Blue.png" alt="Test Image">
 </div>
 
- <a> <p style= "color: darkslategrey; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;text-align: center;">  Clink link Below to our fun trail map application! </p>  </a> 
+ <a> <h1> <p style= "color: darkslategrey; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;text-align: center;">  Clink map below to our interactive parcel viewer!  </p> </h1> </a> 
  <h1> 
-     <a href="http://newtown.maps.arcgis.com/apps/webappviewer/index.html?id=f38e4b86e2a74966bcfd9e8641e7c18a/" target="_blank"> <center> <img alt="map" src="https://github.com/cwoehrle/cwoehrle.github.io/blob/master/Web_App_screenshot.PNG" 
+     <a href="http://newtown.maps.arcgis.com/apps/webappviewer/index.html?id=f38e4b86e2a74966bcfd9e8641e7c18a/" target="_blank"> <center> <img alt="map" src="https://github.com/cwoehrle/cwoehrle.github.io/blob/master/web_app_screenshot.PNG" 
       width=500" height=350"> </center> </a>   </h1>
     
 <div class="img-container"> <!-- Block Parent Element -->     
 <img src= "https://github.com/cwoehrle/cwoehrle.github.io/blob/master/Flag1.jpg" alt="Flag">
-</div>
-
-</body style>
-</body>
-</html>
+    
+   
