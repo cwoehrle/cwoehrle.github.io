@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
+    <head>
+   
 
-<body> <body style="background-color:lightgray;"
-    <h1> <p style="color:cadetblue;font-style:italic;text-align: center;"> I made this website </p style> </h1>
-    </head>
+<body> <body style="background-color:lightgray;
+   
 
 <p> <p style="color:seagreen; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;text-align: center;"> This is a <strong> website </strong> </p style> </p>
 
