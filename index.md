@@ -2,11 +2,7 @@
 <html>
 <head>
 
- <style>
-    .img-container {
-      text-align: center;
-    }
-  </style>
+ 
 </head>
 <body> <body style="background-color:lightgray;"
     <h1> <p style="color:cadetblue;font-style:italic;text-align: center;"> Newtown's GIS department is proud to present this terrible website </p style> </h1>
