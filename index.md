@@ -10,7 +10,7 @@
 <p> <p style="color:seagreen; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;text-align: center;"> This is a <strong> website </strong> with maps </p style> </p>
 
 <div class="img-container"> <!-- Block Parent Element -->
-<img src= "https://github.com/cwoehrle/cwoehrle.github.io/blob/master/Logo_Blue.png" alt="Test Image">
+<img src= "https://github.com/cwoehrle/cwoehrle.github.io/blob/master/Logo_Blue.png?raw=true" alt="Test Image">
 </div>
 
  <a> <h1> <p style= "color: darkslategrey; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;text-align: center;">  Clink map below to our interactive parcel viewer!  </p> </h1> </a> 
