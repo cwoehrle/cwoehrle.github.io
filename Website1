@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title> Website </title>
+</head>
+<body>
+<p> This is a <strong> website </strong> </p>
+<img src= "C://users/woehrlec/downloads/Img_9872.jpg" alt="Test Image"
+<a>Maps for cool kids</a>
+<a href="">Maps for cool kids</a>
+<a href="http://newtown.maps.arcgis.com/apps/webappviewer/index.html?id=48f2bdade2884f3aab2ce6c04b06a955/">Maps for cool kids</a>
+</body>
+</html>
